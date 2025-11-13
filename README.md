@@ -55,3 +55,10 @@ Para usar las funciones en simulaciones:
 
 `python
 from hdzme001dutilities import evaluatestabilitybound, correctinstability, simulate_step
+
+
+🧠 Cita sugerida
+
+> Hernández Morales, E. (2025). Ultra-Fast Spectral Bound for Robust Stability Validation in Uncertain Control Systems. GitHub Repository: eduardohernandezmorales1971/Paper
+
+---
